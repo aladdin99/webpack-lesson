@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=new Promise(((e,o,s)=>{s(e*o)}));console.log(e(2,4))})();

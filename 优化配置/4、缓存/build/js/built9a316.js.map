@@ -1,0 +1,1 @@
+{"version":3,"file":"js/built9a316.js","mappings":"mBAEAA,QAAQC,IAAI,sB","sources":["webpack:///./src/js/index.js"],"sourcesContent":["import \"./../css/index.css\"\r\n\r\nconsole.log(\"--done--done---11\");"],"names":["console","log"],"sourceRoot":""}

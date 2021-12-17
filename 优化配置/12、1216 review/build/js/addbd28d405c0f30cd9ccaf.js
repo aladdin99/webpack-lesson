@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[40],{374:(u,n,e)=>{function r(u,n){return u+n}function t(u,n){return u*n}e.r(n),e.d(n,{add:()=>r,mul:()=>t})}}]);
+//# sourceMappingURL=addbd28d405c0f30cd9ccaf.js.map

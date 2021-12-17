@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: pink;
+    line-height: 110px;
+}

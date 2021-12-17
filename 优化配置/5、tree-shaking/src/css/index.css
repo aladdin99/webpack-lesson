@@ -1,0 +1,18 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.box2 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}

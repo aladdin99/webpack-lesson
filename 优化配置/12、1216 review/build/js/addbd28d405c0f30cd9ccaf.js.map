@@ -1,0 +1,1 @@
+{"version":3,"file":"js/addbd28d405c0f30cd9ccaf.js","mappings":"iFAAO,SAASA,EAAIC,EAAGC,GACrB,OAAOD,EAAIC,EAEN,SAASC,EAAIF,EAAGC,GACrB,OAAOD,EAAIC,E","sources":["webpack:///./src/js/add.js"],"sourcesContent":["export function add(a, b) {\n  return a + b;\n}\nexport function mul(a, b) {\n  return a * b;\n}\n"],"names":["add","a","b","mul"],"sourceRoot":""}
